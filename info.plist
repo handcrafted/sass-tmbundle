@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>contactEmailRot13</key>
+	<string>adam@gethandcrafted.com</string>
+	<key>contactName</key>
+	<string>Adam Stacoviak</string>
+	<key>deleted</key>
+	<array>
+		<string>9B92DDD4-FFE2-4070-BC7E-831C6AE8E7EA</string>
+	</array>
+	<key>description</key>
+	<string>A TextMate bundle to aid in rapid Sass development.</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>items</key>
@@ -330,7 +340,7 @@
 		</dict>
 	</dict>
 	<key>name</key>
-	<string>SASS</string>
+	<string>Sass-lang</string>
 	<key>ordering</key>
 	<array>
 		<string>0AB51F6F-7780-4BF2-BEE3-5405ABA6A6B9</string>
