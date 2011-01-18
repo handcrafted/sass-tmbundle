@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:overflow scroll$0</string>
+	<string>overflow: scroll$0</string>
 	<key>name</key>
 	<string>overflow: scroll</string>
 	<key>scope</key>
